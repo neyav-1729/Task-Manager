@@ -9,15 +9,15 @@ Features
 3) Light and Classy Theme: Provides a visually appealing and user-friendly interface.
 
 Technologies Used
-1)HTML: For structuring the web page.
-2)CSS: For styling the application.
-3)JavaScript: For implementing the functionality of the application.
+1) HTML: For structuring the web page.
+2) CSS: For styling the application.
+3) JavaScript: For implementing the functionality of the application.
 
 Usage
-1)Adding Tasks: Use the input fields to add new tasks.
-2)Searching Tasks: Use the search bar to find specific tasks quickly.
-3)Editing Tasks: Click on the edit button to modify a task.
-4)Completing Tasks: Click on the complete button to mark a task as done.
+1) Adding Tasks: Use the input fields to add new tasks.
+2) Searching Tasks: Use the search bar to find specific tasks quickly.
+3) Editing Tasks: Click on the edit button to modify a task.
+4) Completing Tasks: Click on the complete button to mark a task as done.
 
 Contact
 If you have any questions or suggestions, feel free to reach out:
